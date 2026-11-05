@@ -64,9 +64,10 @@ SIVU = """
 
     <h2>Uudelleenkäynnistystesti</h2>
     <p>
-        Testiä ei ole vielä tehty. Päivitän tähän tuloksen,
-        kun olen tarkistanut sivun toiminnan ja laskurin arvon
-        palvelimen uudelleenkäynnistyksen jälkeen.
+        Uudelleenkäynnistystesti tehtiin 5.11.2026.
+        Nginx, MySQL ja Python-sovellus käynnistyivät automaattisesti.
+        Uudelleenkäynnistyksen jälkeen tietokannan laskurin arvo oli 2.
+        Sivu avautui ja laskuri kasvoi sivua ladattaessa.
     </p>
 
     <h2>Projektin lähdekoodi</h2>
